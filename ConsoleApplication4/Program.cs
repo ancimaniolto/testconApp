@@ -10,7 +10,7 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Мама мыла раму мылом");
+            Console.WriteLine("Мама мыла раму мылом2");
         }
     }
 }
